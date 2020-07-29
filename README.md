@@ -9,19 +9,20 @@ Hi, I'm – @jtlimson a software engineer. 🔭 I’m currently working on vario
 - Jordan B. Peterson
 
 ## 📅 Yearly Goal
-- 📚 Read atleast 5 books a year. 
-- 🖼️ Take 50 Good photos. 
-- 🕹️ Finish 5 in story worthy game.
-- 🆕 Learn something new. 
-- 🎥 Watch a classic film. I can share you some list
-- 💸 Save to invest in something good. Road to financial stability. 
-- 📓 Put things to writing. I want to be a good story teller someday.
+📚 Read atleast 5 books a year. <br/>
+🖼️ Take 50 Good photos.  <br/>
+🕹️ Finish 5 in story worthy game. <br/>
+🆕 Learn something new.  <br/>
+🎥 Watch a classic film. I can share you some list. <br/>
+💸 Save to invest in something good. Road to financial stability.  <br/>
+📓 Put things to writing. I want to be a good story teller someday. <br/>
+
 
 ## 📫 Wanna connect? 
 
-- Personal site: https://juliuslimson.com/
-- LinkedIn : [click me](https://www.linkedin.com/in/julius-limson-47018163/)
-- Email: me@juliuslimson.com
+Personal site: https://juliuslimson.com/  <br/> 
+LinkedIn : [click me](https://www.linkedin.com/in/julius-limson-47018163/)  <br/>
+Email: me@juliuslimson.com
 
 
 <!--
