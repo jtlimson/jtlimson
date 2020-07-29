@@ -21,6 +21,7 @@ Hi, I'm a software engineer and working at various projects mainly focused on op
 
 - Personal site: https://juliuslimson.com/
 - Email: me@juliuslimson.com
+- LinkedIn : [click me](https://www.linkedin.com/in/julius-limson-47018163/)
 
 
 <!--
