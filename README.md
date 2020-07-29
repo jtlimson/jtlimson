@@ -1,6 +1,6 @@
-## 🌏 Hello World! I'm - @jtlimson 👋
+## 🌏 Hello World! I'm – @jtlimson 👋
 
-Hi, I'm - @jtlimson a software engineer. 🔭 I’m currently working on various projects that mainly focused on operational productivity. If you check me here on [GitHub](https://github.com/jtlimson) , these are not my finalized work, and I do not feel that they are an accurate presentation of the quality of work that I bring as a full-time employee, but it will give you a sense of the technologies that I worked with in most cases.
+Hi, I'm – @jtlimson a software engineer. 🔭 I’m currently working on various projects that mainly focused on operational productivity. If you check me here on [GitHub](https://github.com/jtlimson) , these are not my finalized work, and I do not feel that they are an accurate presentation of the quality of work that I bring as a full-time employee, but it will give you a sense of the technologies that I worked with in most cases.
 
 ## 😃 People that inspires me. ✨ 
 - Hans Rosling
