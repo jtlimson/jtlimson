@@ -1,14 +1,14 @@
-## Hello World! I'm - @jtlimson 👋
+## 🌏 Hello World! I'm - @jtlimson 👋
 
 Hi, I'm a software engineer and working at various projects mainly focused on operational productivity. If you check me here on [GitHub](https://github.com/jtlimson) , these are not my finalized work, and I do not feel that they are an accurate presentation of the quality of work that I bring as a full-time employee, but it will give you a sense of the technologies that I worked with in most cases.
 
-## People that inspires me.
+## 😃 People that inspires me.
 - Hans Rosling
 - Viktor E. Frankl
 - Daniel Kahneman
 - Jordan B. Peterson
 
-## Yearly Goal
+## 📅 Yearly Goal
 - 📚 Read atleast 5 books a year. 
 - 🖼️ Take 50 Good photos. 
 - 🕹️ Finish 5 in story worthy game.
@@ -17,7 +17,7 @@ Hi, I'm a software engineer and working at various projects mainly focused on op
 - 💸 Save to invest in something good. Road to financial stability. 
 - 📓 Put things to writing. I want to be a good story teller someday.
 
-## Wanna connect? 
+## 💻 Wanna connect? 
 
 - Personal site: https://juliuslimson.com/
 - Email: me@juliuslimson.com
