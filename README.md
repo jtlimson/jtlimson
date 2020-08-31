@@ -17,7 +17,7 @@ Hi, I'm – @jtlimson a software engineer. 🔭 I’m currently working on vario
 🆕 Learn something new.  <br/>
 🎥 Watch a classic film. I can share you some list. <br/>
 💸 Save to invest in something good.  <br/>
-📓 Put things to writing. . <br/>
+📓 Put things to writing. <br/>
 
 
 ## 📫 Wanna connect? 
