@@ -10,15 +10,6 @@ Hi, I'm – @jtlimson a software engineer. 🔭 I’m currently working on vario
 - Viktor E. Frankl
 - Daniel Kahneman
 
-## 📅 Yearly Goal
-📚 Read atleast 5 books a year. <br/>
-🖼️ Take 50 Good photos.  <br/>
-🕹️ Finish 5 in story worthy game. <br/>
-🆕 Learn something new.  <br/>
-🎥 Watch a classic film. I can share you some list. <br/>
-📓 Put things to writing. <br/>
-
-
 ## 📫 Wanna connect? 
 
 Personal site: https://juliuslimson.com/  <br/> 
@@ -27,6 +18,16 @@ Email: me@juliuslimson.com
 
 
 <!--
+
+
+## 📅 Yearly Goal
+📚 Read atleast 5 books a year. <br/>
+🖼️ Take 50 Good photos.  <br/>
+🕹️ Finish 5 in story worthy game. <br/>
+🆕 Learn something new.  <br/>
+🎥 Watch a classic film. I can share you some list. <br/>
+📓 Put things to writing. <br/>
+
 **jtlimson/jtlimson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
