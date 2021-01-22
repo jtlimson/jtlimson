@@ -1,6 +1,6 @@
 ## 🌏 Hello World! I'm – @jtlimson 👋
 
-Hi, I'm – @jtlimson a software engineer. 🔭 I’m currently working on various projects that mainly focused on operational productivity. If you check me here on [GitHub](https://github.com/jtlimson) , these are not my finalized work, and I do not feel that they are an accurate presentation of the quality of work that I bring as a full-time employee, but it will give you a sense of the technologies that I worked with in most cases.
+Hello World, I'm – @jtlimson a software engineer that advocates continuous improvements in all aspect of our human existence. 🔭 I’m currently helping and working on various projects that mainly focused on operational productivity. I also enjoy taking photos from the street due to its candid and raw emotions, And if you are interested, please ask! I'll gladly share my photos through instagram – but doing expect too much as im only a hobbyist😃. If you check me here on [GitHub](https://github.com/jtlimson) , these are not my finalized work, and I do not feel that they are an accurate presentation of the quality of work that I bring as a full-time employee, but it will give you a sense of the technologies that I worked with in most cases.
 
 ✨ My Dogma Right Now: 
 >>> Set Your House In Perfect Order Before You Criticize The World – Jordan B. Peterson
