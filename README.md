@@ -9,6 +9,7 @@ Hello World, I'm – @jtlimson a software engineer that advocates continuous imp
 - Hans Rosling
 - Viktor E. Frankl
 - Daniel Kahneman
+- Steve Wozniak 
 
 ## 📫 Wanna connect? 
 
