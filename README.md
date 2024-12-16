@@ -13,9 +13,7 @@ Hello World, I'm – @jtlimson a software engineer that advocates continuous imp
 
 ## 📫 Wanna connect? 
 
-Personal site: https://juliuslimson.com/  <br/> 
 LinkedIn : [click me](https://www.linkedin.com/in/julius-limson-47018163/)  <br/>
-Email: me@juliuslimson.com
 
 
 <!--
